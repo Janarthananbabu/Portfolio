@@ -302,7 +302,7 @@ body {
 
 .expertise-item {
     background: linear-gradient(135deg, #1e1e1e, #333);
-    padding: 15px;
+    padding: 6px;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
