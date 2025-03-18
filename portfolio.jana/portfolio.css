@@ -11,6 +11,9 @@
   --text-color--: rgb(51, 158, 185);
 }
 
+.fa-brands{
+  font-size:20px;
+
 .links-container > ul{
     list-style: none;
   }
