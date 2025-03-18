@@ -311,6 +311,7 @@ body {
     background: linear-gradient(135deg, #1e1e1e, #333);
     padding: 6px;
     border-radius: 10px;
+  height:100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
